@@ -9,7 +9,6 @@ This project is designed as a practice environment for working with SCSS (Sass).
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Usage](#usage)
@@ -71,10 +70,6 @@ Make sure you have the following tools installed on your local development envir
 
 ## Usage
 
-- **Compiling SCSS**: SCSS is compiled to CSS automatically using Gulp. You can manually compile SCSS by running:
-  ```bash
-  npm run build
-  ```
 - **Development Mode**: To start a local server with live reloading, use:
   ```bash
   npm start
