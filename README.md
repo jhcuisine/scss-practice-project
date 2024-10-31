@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your SCSS practice project. This documentation includes sections on the project setup, technologies used, and instructions for contributing to the project.
-
----
-
 # SCSS Practice Project
 
 This project is designed as a practice environment for working with SCSS (Sass). It includes examples of using SCSS features such as variables, mixins, functions, nesting, partials, and more. The goal of this project is to improve skills in writing modular, reusable, and efficient CSS using SCSS.
